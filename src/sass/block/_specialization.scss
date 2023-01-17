@@ -11,10 +11,10 @@
     }
     &__item{
         padding: 260px 0 0 45px;
-        background: url('/img/specialization.png');
+        background: url('../img/specialization.png');
         transition: all 0.3s;
         &:hover{
-            background: url('/img/specialization_2.png');
+            background: url('../img/specialization_2.png');
         }
     }
     &__info{

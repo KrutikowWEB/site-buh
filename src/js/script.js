@@ -2,8 +2,8 @@ $(document).ready(function(){
     $('.promo__slick').slick({
         dots: true,
         speed: 800,
-        prevArrow: '<button type="button" class="slick-prev"><img src="icons/footer/shevron_left.png"></button>',
-        nextArrow: '<button type="button" class="slick-next"><img src="icons/footer/shevron_right.png"></button>'
+        prevArrow: '<button type="button" class="slick-prev"><img src="icons/header/shevron_left.png"></button>',
+        nextArrow: '<button type="button" class="slick-next"><img src="icons/header/shevron_right.png"></button>'
       });
   });
   
@@ -15,8 +15,8 @@ $(document).ready(function(){
         infinite: true,
         slidesToShow: 4,
         slidesToScroll: 2,
-        prevArrow: '<button type="button" class="slick-prev"><img src="icons/footer/shevron_left.png"></button>',
-        nextArrow: '<button type="button" class="slick-next"><img src="icons/footer/shevron_right.png"></button>'
+        prevArrow: '<button type="button" class="slick-prev"><img src="icons/header/shevron_left.png"></button>',
+        nextArrow: '<button type="button" class="slick-next"><img src="icons/header/shevron_right.png"></button>'
       });
   });
 
@@ -24,8 +24,8 @@ $(document).ready(function(){
     $('.thanks__slick').slick({
         dots: true,
         speed: 1000,
-        prevArrow: '<button type="button" class="slick-prev"><img src="icons/footer/shevron_left.png"></button>',
-        nextArrow: '<button type="button" class="slick-next"><img src="icons/footer/shevron_right.png"></button>'});
+        prevArrow: '<button type="button" class="slick-prev"><img src="icons/header/shevron_left.png"></button>',
+        nextArrow: '<button type="button" class="slick-next"><img src="icons/header/shevron_right.png"></button>'});
   });
 
   $('a[href^="#"]').click(function(){
