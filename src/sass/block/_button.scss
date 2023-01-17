@@ -1,0 +1,17 @@
+.button{
+    width: 270px;
+    height: 60px;
+    background: #005FA3;
+    border: none;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    transition: all 0.3s;
+    &:hover{
+        background: #244156;
+        color: #eedbdb;
+    }
+}
